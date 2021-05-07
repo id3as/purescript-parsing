@@ -1,4 +1,5 @@
 { name = "parsing"
+, backend = "purerl"
 , dependencies =
   [ "arrays"
   , "assert"
